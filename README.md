@@ -3,7 +3,7 @@ ImageGridView
 
 Running the Code:
 Clone the Repository:
-git clone https://github.com/yourusername/ImageGridApp.git
+git clone https://github.com/technoparkappsvino/ImageGridView
 
 Open Project in Xcode:
 Navigate to the project directory:
